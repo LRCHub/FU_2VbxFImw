@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Burning Flower",
+  "base_artist": "HANA",
+  "createdAt": "2025-12-07T12:39:51.802123Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burning Flower",
+      "artist": "HANA",
+      "has_synced": true,
+      "path": "select/01_Burning_Flower_HANA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Burning Flower",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_Burning_Flower_HANA.txt"
+    }
+  ]
+}
